@@ -25,6 +25,10 @@ This project is a simple image search application built with JavaScript using th
 - Pixabay API
 
 ---
+## 🔗 Демо
+
+[See on Netlify](https://imagesearch1-app-js.netlify.app/)
+
 
 ## 🚀 Getting Started
 
